@@ -821,7 +821,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 488424936}
         m_TargetAssemblyTypeName: UIManager, Assembly-CSharp
-        m_MethodName: ExitButtonOnClick
+        m_MethodName: QuitButtonOnClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

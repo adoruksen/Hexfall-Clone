@@ -1,2 +1,3 @@
-# Match3 game made up of hexagons.
+# 
+Match3 game made up of hexagons.
 2D platform
